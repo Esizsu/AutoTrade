@@ -1,0 +1,9 @@
+com\autotradereu\stepdef\SearchSteps.class
+com\autotradereu\utils\ConfigurationReader.class
+com\autotradereu\utils\MyDriver.class
+com\autotradereu\pages\SearchPage.class
+com\autotradereu\runner\Runner.class
+com\autotradereu\pages\AdvanceSearchPage.class
+com\autotradereu\stepdef\AdvanceSearchSteps.class
+com\autotradereu\pages\Base.class
+com\autotradereu\stepdef\Hooks.class
